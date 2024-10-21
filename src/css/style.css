@@ -241,6 +241,14 @@ footer{
 	margin-left: 20px;
 }
 
+nav ul li{
+	font-family: "helvetica";
+} 
+
+footer h2, h4, label, button{
+	font-family: "helvetica";
+	font-weight: bold;
+} 
 
 
 
